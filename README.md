@@ -8,4 +8,4 @@ In their analysis North wind wants to look closely at sales trends, how customer
 
 North Wind Traders knows that using data to make decisions is important. They want to use this information to find ways to make their business better and keep up with what their customer want
 
-FULL PROJECT[HERE]()
+FULL PROJECT[HERE](https://github.com/KopanoRamokoka/North-Wind-Traders-Company-Sales-POWER-BI-Project/blob/main/North%20wind%20Traders%20Project.pbix)
